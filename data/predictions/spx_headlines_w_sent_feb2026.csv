@@ -1,0 +1,310 @@
+headline;date;source;finbert_sentiment;logreg_sentiment
+Wall Street ends higher, lifted by Nvidia and other AI stocks;2026-02-18;Reuters;Positive;Negative
+Wall Street ends down as Nvidia slides and private equity stocks sink;2026-02-19;Reuters;Neutral;Negative
+Wall Street ends higher after Supreme Court rules against Trump tariffs;2026-02-20;Reuters;Neutral;Negative
+Wall Street ends sharply lower amid AI displacement fears;2026-02-23;Reuters;Negative;Negative
+Wall St bounces back, ending higher on renewed tech vigor;2026-02-24;Reuters;Positive;Negative
+Wall Street extends tech-powered rally as AI worries abate;2026-02-25;Reuters;Positive;Positive
+Wall St ends lower as tech rally stalls, AI fervor wanes after Nvidia results;2026-02-26;Reuters;Negative;Positive
+Wall St notches monthly declines on combined AI, tariff, geopolitical uncertainty;2026-02-27;Reuters;Negative;Negative
+Wall Street retreats as investors weigh AI spending surge;2026-02-04;Reuters;Negative;Positive
+Wall Street slips as investors brace for major tech earnings;2026-02-05;Reuters;Negative;Positive
+Stocks rally as AI spending optimism boosts tech shares;2026-02-06;Reuters;Positive;Positive
+Wall Street rises as chip stocks lead AI-driven rally;2026-02-07;Reuters;Positive;Positive
+Stocks mixed as inflation concerns linger;2026-02-08;Reuters;Neutral;Negative
+S&P 500 edges higher as investors assess AI sector outlook;2026-02-09;Reuters;Positive;Neutral
+Wall Street slips as investors debate tech valuations;2026-02-10;Reuters;Negative;Neutral
+US stocks close lower amid AI disruption fears;2026-02-11;Reuters;Negative;Negative
+S&P 500 dips as financial stocks lead decline;2026-02-12;Reuters;Negative;Positive
+Wall Street rebounds on strong tech sector performance;2026-02-13;Reuters;Positive;Positive
+Stocks close mixed as investors monitor earnings outlook;2026-02-14;Reuters;Negative;Neutral
+Wall Street slips as bond yields rise;2026-02-15;Reuters;Negative;Negative
+S&P 500 rises on optimism over AI demand growth;2026-02-16;Reuters;Positive;Positive
+Wall Street steadies ahead of key economic data;2026-02-17;Reuters;Neutral;Neutral
+Stock Market Today: Dow, S&P 500 Close Higher on Tech Gains;2026-02-18;CNBC;Positive;Neutral
+S&P 500 slips as investors rotate out of tech stocks;2026-02-19;CNBC;Negative;Positive
+Stocks climb as traders digest Supreme Court tariff ruling;2026-02-20;CNBC;Neutral;Negative
+S&P 500 falls amid concerns over AI spending bubble;2026-02-23;CNBC;Negative;Negative
+Wall Street rebounds as AI optimism lifts tech shares;2026-02-24;CNBC;Positive;Negative
+Stocks rise as investors buy dip in chipmakers;2026-02-25;CNBC;Positive;Positive
+S&P 500 slips after Nvidia earnings fail to impress;2026-02-26;CNBC;Negative;Positive
+Wall Street closes February lower amid tech volatility;2026-02-27;CNBC;Neutral;Negative
+Stock Market Today: S&P 500 edges lower as yields climb;2026-02-03;CNBC;Negative;Neutral
+S&P 500 hits turbulence as investors weigh macro risks;2026-02-04;CNBC;Negative;Neutral
+US stocks rally on optimism about AI infrastructure spending;2026-02-05;CNBC;Positive;Positive
+S&P 500 surges as tech stocks lead Wall Street higher;2026-02-06;CNBC;Positive;Neutral
+Wall Street climbs as AI boom fuels semiconductor gains;2026-02-07;CNBC;Positive;Positive
+S&P 500 trades sideways amid inflation concerns;2026-02-08;CNBC;Neutral;Negative
+Stocks rise as investors bet on continued tech growth;2026-02-09;CNBC;Positive;Positive
+Wall Street dips ahead of major earnings reports;2026-02-10;CNBC;Neutral;Neutral
+S&P 500 falls as traders reassess AI valuations;2026-02-11;CNBC;Neutral;Neutral
+Stocks rebound after selloff driven by AI disruption fears;2026-02-12;CNBC;Positive;Negative
+S&P 500 gains as tech stocks recover;2026-02-13;CNBC;Positive;Positive
+Wall Street mixed as investors monitor interest-rate outlook;2026-02-14;CNBC;Negative;Neutral
+Stocks dip as Treasury yields climb;2026-02-15;CNBC;Negative;Negative
+S&P 500 edges higher on AI optimism;2026-02-16;CNBC;Positive;Neutral
+Wall Street steadies ahead of economic data;2026-02-17;CNBC;Negative;Neutral
+Opinion: Why the S&P 500 rally may face headwinds;2026-02-18;MarketWatch;Negative;Positive
+S&P 500 ends lower as tech stocks retreat;2026-02-19;MarketWatch;Negative;Positive
+Stocks rise as tariff fears fade;2026-02-20;MarketWatch;Positive;Negative
+S&P 500 dips as AI bubble debate intensifies;2026-02-23;MarketWatch;Negative;Neutral
+Wall Street rebounds on renewed tech optimism;2026-02-24;MarketWatch;Positive;Negative
+Stocks rally as semiconductor shares jump;2026-02-25;MarketWatch;Positive;Positive
+S&P 500 slips following Nvidia earnings reaction;2026-02-26;MarketWatch;Negative;Positive
+Wall Street logs monthly loss amid tech volatility;2026-02-27;MarketWatch;Negative;Negative
+Is the S&P 500 overvalued after the AI boom?;2026-02-05;Business Insider;Neutral;Neutral
+Why AI stocks are driving the S&P 500 higher;2026-02-06;Business Insider;Positive;Positive
+Investors worry the S&P 500 rally is getting stretched;2026-02-07;Business Insider;Negative;Positive
+The stock market’s AI trade is hitting turbulence;2026-02-08;Business Insider;Negative;Neutral
+S&P 500 gains as tech earnings beat expectations;2026-02-09;Business Insider;Positive;Positive
+Wall Street braces for more volatility in AI stocks;2026-02-10;Business Insider;Negative;Negative
+Why the S&P 500 could face a correction soon;2026-02-11;Business Insider;Negative;Neutral
+Investors rotate into cyclicals as tech cools;2026-02-12;Business Insider;Negative;Neutral
+AI hype continues to drive the S&P 500 higher;2026-02-13;Business Insider;Positive;Neutral
+Wall Street debates whether AI valuations are justified;2026-02-14;Business Insider;Neutral;Negative
+Stocks slip as investors reassess tech valuations;2026-02-15;Business Insider;Negative;Positive
+S&P 500 edges up amid optimism about AI demand;2026-02-16;Business Insider;Positive;Positive
+Markets steady as investors await economic data;2026-02-17;Business Insider;Positive;Neutral
+Prediction: The S&P 500 Could Rally Further in 2026;2026-02-18;The Motley Fool;Positive;Positive
+Is the S&P 500 Too Expensive Right Now?;2026-02-19;The Motley Fool;Negative;Neutral
+Why AI Stocks Are Driving the Market Higher;2026-02-20;The Motley Fool;Positive;Negative
+Should You Buy the S&P 500 Dip?;2026-02-23;The Motley Fool;Neutral;Neutral
+Top Dividend Stocks in the S&P 500 Today;2026-02-24;The Motley Fool;Neutral;Positive
+These AI Stocks Could Beat the S&P 500;2026-02-25;The Motley Fool;Positive;Positive
+Why Nvidia’s Earnings Matter for the S&P 500;2026-02-26;The Motley Fool;Neutral;Positive
+Is the S&P 500 Rally Losing Momentum?;2026-02-27;The Motley Fool;Negative;Positive
+Stocks rise as AI optimism boosts tech sector;2026-02-18;Yahoo Finance;Positive;Negative
+S&P 500 slips as investors reassess AI spending;2026-02-19;Yahoo Finance;Negative;Neutral
+Wall Street gains after tariff ruling boosts sentiment;2026-02-20;Yahoo Finance;Positive;Negative
+Stocks fall amid concerns about AI bubble;2026-02-23;Yahoo Finance;Negative;Negative
+S&P 500 rebounds as tech stocks recover;2026-02-24;Yahoo Finance;Positive;Positive
+Wall Street rises on semiconductor rally;2026-02-25;Yahoo Finance;Positive;Positive
+S&P 500 dips after Nvidia earnings reaction;2026-02-26;Yahoo Finance;Negative;Positive
+Stocks end February lower amid tech volatility;2026-02-27;Yahoo Finance;Negative;Negative
+Wall Street opens higher ahead of Nvidia earnings as AI worries ease;2026-02-25;Reuters;Positive;Neutral
+Wall Street futures slip as investors await key inflation data;2026-02-13;Reuters;Negative;Neutral
+Wall Street opens lower after recent gains as tech stocks retreat;2026-02-03;Reuters;Negative;Negative
+Wall Street steady as tech shares recover from early losses;2026-02-17;Reuters;Positive;Neutral
+Wall Street rises after tariff ruling boosts investor sentiment;2026-02-20;Reuters;Positive;Positive
+Global stocks climb as Nvidia earnings spark tech rally;2026-02-25;Reuters;Positive;Positive
+US stocks muted as strong jobs data clouds rate-cut outlook;2026-02-11;Reuters;Negative;Positive
+Wall Street dips as investors weigh AI disruption risks;2026-02-23;Reuters;Negative;Neutral
+S&P 500 slides as technology shares lead broad market losses;2026-02-26;Reuters;Negative;Negative
+Wall Street climbs as semiconductor rally lifts major indexes;2026-02-06;Reuters;Positive;Positive
+Wall Street futures inch up as investors look to earnings guidance;2026-02-04;Reuters;Positive;Negative
+US stocks mixed as traders weigh inflation and AI spending boom;2026-02-10;Reuters;Neutral;Neutral
+Wall Street falls as software stocks drop on AI competition fears;2026-02-03;Reuters;Negative;Negative
+Wall Street edges higher as investors rotate into industrials;2026-02-09;Reuters;Positive;Neutral
+Stocks drift lower as traders brace for Federal Reserve signals;2026-02-12;Reuters;Negative;Negative
+Wall Street advances as financial stocks offset tech weakness;2026-02-14;Reuters;Positive;Negative
+S&P 500 rises slightly as investors digest economic data;2026-02-15;Reuters;Neutral;Neutral
+Wall Street futures steady as traders await Nvidia results;2026-02-24;Reuters;Neutral;Neutral
+US stocks end mixed as chipmakers slide after rally;2026-02-07;Reuters;Neutral;Positive
+S&P 500 retreats as investors reassess tech sector valuations;2026-02-08;Reuters;Negative;Neutral
+Stock Market Today: S&P 500 dips as investors assess inflation outlook;2026-02-01;CNBC;Negative;Neutral
+Stock Market Today: Dow rises while S&P 500 lags amid tech weakness;2026-02-02;CNBC;Negative;Positive
+Stock Market Today: S&P 500 rebounds on semiconductor rally;2026-02-07;CNBC;Positive;Positive
+Stock Market Today: Wall Street steadies as investors await Fed clues;2026-02-11;CNBC;Negative;Neutral
+Stock Market Today: S&P 500 edges higher after retail earnings;2026-02-12;CNBC;Positive;Positive
+Stock Market Today: S&P 500 slips as bond yields climb;2026-02-14;CNBC;Negative;Neutral
+Stock Market Today: Stocks mixed as investors track economic data;2026-02-17;CNBC;Neutral;Neutral
+Stock Market Today: Wall Street rallies on chipmaker optimism;2026-02-24;CNBC;Neutral;Negative
+Stock Market Today: S&P 500 retreats after tech sector selloff;2026-02-26;CNBC;Negative;Neutral
+Stock Market Today: Stocks drift lower as AI trade loses momentum;2026-02-27;CNBC;Negative;Neutral
+S&P 500 inches higher as investors look past inflation worries;2026-02-01;MarketWatch;Positive;Neutral
+Wall Street struggles for direction as AI boom faces scrutiny;2026-02-03;MarketWatch;Negative;Negative
+S&P 500 climbs as semiconductor shares rally on strong demand;2026-02-07;MarketWatch;Positive;Positive
+Wall Street dips as investors question tech sector valuations;2026-02-10;MarketWatch;Negative;Neutral
+Stocks edge higher as investors digest economic reports;2026-02-11;MarketWatch;Positive;Neutral
+S&P 500 slips as traders rotate into defensive sectors;2026-02-13;MarketWatch;Negative;Neutral
+Wall Street rebounds as tech stocks recover from selloff;2026-02-16;MarketWatch;Positive;Negative
+S&P 500 trades flat as investors await Nvidia earnings report;2026-02-24;MarketWatch;Neutral;Neutral
+Wall Street dips as chipmakers lead declines after rally;2026-02-26;MarketWatch;Negative;Positive
+Markets mixed as February trading ends with tech volatility;2026-02-28;MarketWatch;Negative;Neutral
+Wall Street investors brace for turbulence in AI-driven stocks;2026-02-01;Business Insider;Negative;Neutral
+S&P 500 investors weigh risks of massive AI spending surge;2026-02-03;Business Insider;Negative;Positive
+Tech earnings could decide the next move for the S&P 500;2026-02-04;Business Insider;Neutral;Positive
+Investors debate whether the AI boom is overheating markets;2026-02-08;Business Insider;Neutral;Neutral
+Wall Street strategists warn tech valuations may be stretched;2026-02-09;Business Insider;Negative;Negative
+S&P 500 traders brace for volatility ahead of Nvidia earnings;2026-02-24;Business Insider;Neutral;Neutral
+AI spending boom could reshape S&P 500 sector leaders;2026-02-25;Business Insider;Positive;Neutral
+Investors search for winners and losers of the AI revolution;2026-02-26;Business Insider;Negative;Neutral
+Wall Street braces for more market swings in February;2026-02-27;Business Insider;Negative;Negative
+The AI boom is reshaping the S&P 500’s biggest companies;2026-02-28;Business Insider;Neutral;Neutral
+2 Artificial Intelligence Stocks That Could Outperform the S&P 500;2026-02-01;The Motley Fool;Positive;Positive
+Why These Semiconductor Stocks Are Beating the S&P 500;2026-02-03;The Motley Fool;Positive;Positive
+3 Reasons the S&P 500 Could Continue Rising in 2026;2026-02-05;The Motley Fool;Neutral;Neutral
+Should Investors Expect a Pullback in the S&P 500?;2026-02-08;The Motley Fool;Neutral;Neutral
+Why Tech Earnings Are Driving the S&P 500 in 2026;2026-02-10;The Motley Fool;Neutral;Positive
+Is the S&P 500 Entering a New AI-Driven Bull Market?;2026-02-13;The Motley Fool;Neutral;Neutral
+Why Semiconductor Stocks Are Leading the Market Higher;2026-02-16;The Motley Fool;Positive;Negative
+These Dividend Stocks Are Beating the S&P 500 in 2026;2026-02-21;The Motley Fool;Positive;Positive
+Why Investors Are Watching Nvidia for Clues About the Market;2026-02-25;The Motley Fool;Neutral;Neutral
+Could the S&P 500 Reach New Highs This Year?;2026-02-28;The Motley Fool;Neutral;Neutral
+Wall Street drifts lower as investors await inflation data;2026-02-03;Yahoo Finance;Negative;Neutral
+Stocks rise as tech companies lead broad market gains;2026-02-06;Yahoo Finance;Positive;Negative
+S&P 500 climbs as semiconductor rally boosts sentiment;2026-02-07;Yahoo Finance;Positive;Positive
+Stocks edge lower as investors question tech valuations;2026-02-10;Yahoo Finance;Negative;Positive
+Wall Street mixed as investors digest economic data;2026-02-11;Yahoo Finance;Neutral;Neutral
+S&P 500 rebounds as investors buy the dip in tech shares;2026-02-13;Yahoo Finance;Positive;Neutral
+Stocks rise as AI optimism fuels semiconductor rally;2026-02-16;Yahoo Finance;Positive;Positive
+Wall Street cautious as traders await Nvidia earnings;2026-02-24;Yahoo Finance;Negative;Negative
+S&P 500 dips as tech stocks fall after strong rally;2026-02-26;Yahoo Finance;Negative;Positive
+Stocks finish February mixed amid AI sector volatility;2026-02-28;Yahoo Finance;Neutral;Negative
+Wall Street futures rise as chip stocks rally on AI demand;2026-02-01;Reuters;Positive;Positive
+Wall Street opens mixed as investors weigh inflation outlook;2026-02-02;Reuters;Negative;Neutral
+S&P 500 climbs as semiconductor shares lead early gains;2026-02-02;Reuters;Positive;Positive
+US stocks dip as investors reassess tech valuations;2026-02-03;Reuters;Negative;Positive
+Wall Street futures steady ahead of major tech earnings;2026-02-04;Reuters;Positive;Neutral
+US stocks edge higher as investors focus on economic data;2026-02-05;Reuters;Positive;Neutral
+Dow tops 50,000 as AI-driven semiconductor rally lifts stocks;2026-02-06;Reuters;Positive;Positive
+Wall Street mixed as investors digest strong chip earnings;2026-02-07;Reuters;Positive;Neutral
+Stocks drift higher as AI demand boosts tech outlook;2026-02-08;Reuters;Positive;Positive
+Wall Street ends mixed as investors weigh growth prospects;2026-02-09;Reuters;Negative;Neutral
+S&P 500 edges lower as traders rotate out of tech shares;2026-02-10;Reuters;Neutral;Negative
+Wall Street futures slip as investors brace for inflation data;2026-02-11;Reuters;Negative;Neutral
+Stocks climb as retail earnings boost market sentiment;2026-02-12;Reuters;Positive;Negative
+Wall Street futures gain as investors bet on strong earnings season;2026-02-13;Reuters;Positive;Positive
+US stocks hold steady as bond yields stabilize;2026-02-14;Reuters;Positive;Neutral
+Wall Street rises as financial shares offset tech weakness;2026-02-15;Reuters;Positive;Negative
+S&P 500 inches higher as traders await Fed signals;2026-02-16;Reuters;Neutral;Neutral
+Wall Street futures flat as markets await Nvidia results;2026-02-24;Reuters;Neutral;Neutral
+US stocks gain as investors return to semiconductor shares;2026-02-25;Reuters;Positive;Negative
+Wall Street slips after strong rally in tech stocks;2026-02-26;Reuters;Negative;Positive
+Wall Street opens lower as investors lock in February gains;2026-02-28;Reuters;Negative;Neutral
+Stock Market Today: S&P 500 edges up as tech stocks recover;2026-02-01;CNBC;Positive;Positive
+Stock Market Today: Wall Street mixed as investors track earnings;2026-02-02;CNBC;Neutral;Neutral
+Stock Market Today: S&P 500 rebounds as chipmakers surge;2026-02-04;CNBC;Positive;Positive
+Stock Market Today: Dow and S&P 500 gain on AI optimism;2026-02-06;CNBC;Positive;Neutral
+Stock Market Today: Wall Street steadies amid mixed economic data;2026-02-07;CNBC;Negative;Neutral
+Stock Market Today: Stocks climb as semiconductor demand rises;2026-02-09;CNBC;Positive;Positive
+Stock Market Today: S&P 500 slips as investors rotate sectors;2026-02-10;CNBC;Negative;Neutral
+Stock Market Today: Wall Street rises ahead of inflation report;2026-02-12;CNBC;Neutral;Neutral
+Stock Market Today: Stocks edge higher as tech rebounds;2026-02-13;CNBC;Positive;Negative
+Stock Market Today: S&P 500 steady as investors await Fed outlook;2026-02-15;CNBC;Neutral;Neutral
+Stock Market Today: Wall Street dips after tech rally pauses;2026-02-16;CNBC;Neutral;Positive
+Stock Market Today: S&P 500 gains as investors buy the dip;2026-02-17;CNBC;Positive;Neutral
+Stock Market Today: Stocks mixed ahead of Nvidia earnings;2026-02-24;CNBC;Neutral;Neutral
+Stock Market Today: Wall Street gains as semiconductor rally continues;2026-02-25;CNBC;Positive;Positive
+Stock Market Today: S&P 500 dips as investors reassess AI valuations;2026-02-26;CNBC;Negative;Neutral
+Stock Market Today: Stocks finish February with tech volatility;2026-02-28;CNBC;Neutral;Negative
+Wall Street rises as investors bet on AI growth;2026-02-01;MarketWatch;Positive;Positive
+Stocks gain as semiconductor companies drive rally;2026-02-02;MarketWatch;Positive;Positive
+Wall Street mixed as investors debate tech valuations;2026-02-03;MarketWatch;Neutral;Neutral
+S&P 500 edges higher as economic data beats expectations;2026-02-04;MarketWatch;Positive;Neutral
+Stocks slip as traders question sustainability of AI boom;2026-02-05;MarketWatch;Negative;Negative
+Wall Street rebounds as chipmakers surge on demand outlook;2026-02-06;MarketWatch;Positive;Positive
+S&P 500 dips as investors rotate into defensive sectors;2026-02-07;MarketWatch;Negative;Neutral
+Wall Street steady as markets await major tech earnings;2026-02-09;MarketWatch;Negative;Neutral
+Stocks mixed as investors digest inflation outlook;2026-02-10;MarketWatch;Negative;Neutral
+S&P 500 climbs as semiconductor rally resumes;2026-02-12;MarketWatch;Positive;Positive
+Wall Street rises as investors buy tech dip;2026-02-13;MarketWatch;Positive;Positive
+Stocks slip as bond yields edge higher;2026-02-15;MarketWatch;Negative;Negative
+S&P 500 edges up ahead of Nvidia earnings;2026-02-24;MarketWatch;Positive;Neutral
+Wall Street dips as investors reassess tech valuations;2026-02-26;MarketWatch;Negative;Neutral
+Markets close February mixed amid tech volatility;2026-02-28;MarketWatch;Neutral;Negative
+Wall Street strategists warn AI boom may spark volatility;2026-02-01;Business Insider;Negative;Negative
+Investors debate whether the S&P 500 is overvalued;2026-02-02;Business Insider;Negative;Neutral
+Tech stocks continue to dominate the S&P 500 rally;2026-02-04;Business Insider;Positive;Positive
+Investors look for the next winners in the AI race;2026-02-05;Business Insider;Positive;Neutral
+The S&P 500’s AI leaders could face tougher competition;2026-02-07;Business Insider;Negative;Neutral
+Wall Street analysts debate the sustainability of AI growth;2026-02-09;Business Insider;Negative;Negative
+Investors question whether tech stocks have peaked;2026-02-11;Business Insider;Negative;Positive
+S&P 500 traders brace for volatility during earnings season;2026-02-13;Business Insider;Neutral;Positive
+Markets rally as semiconductor demand remains strong;2026-02-16;Business Insider;Positive;Positive
+AI spending boom could reshape the stock market;2026-02-24;Business Insider;Positive;Negative
+Investors look for bargains after tech selloff;2026-02-26;Business Insider;Neutral;Neutral
+Wall Street braces for turbulent finish to February;2026-02-27;Business Insider;Negative;Negative
+Could the AI boom push the S&P 500 to new highs?;2026-02-01;The Motley Fool;Negative;Neutral
+3 Stocks Leading the S&P 500 Higher in 2026;2026-02-02;The Motley Fool;Positive;Positive
+Is Now the Right Time to Buy the S&P 500?;2026-02-04;The Motley Fool;Neutral;Neutral
+Why Semiconductor Stocks Are Outperforming the Market;2026-02-06;The Motley Fool;Positive;Negative
+These Growth Stocks Could Beat the S&P 500;2026-02-08;The Motley Fool;Positive;Positive
+Why Investors Are Watching AI Spending Closely;2026-02-10;The Motley Fool;Neutral;Neutral
+3 Reasons the Market Could Rally This Year;2026-02-12;The Motley Fool;Positive;Positive
+Why the S&P 500 Could Stay Volatile in 2026;2026-02-15;The Motley Fool;Negative;Neutral
+Top Tech Stocks Driving the Market Rally;2026-02-16;The Motley Fool;Positive;Positive
+Could the Semiconductor Rally Continue?;2026-02-24;The Motley Fool;Negative;Positive
+Wall Street rises as tech shares lead gains;2026-02-01;Yahoo Finance;Positive;Negative
+Stocks edge higher as investors monitor inflation data;2026-02-02;Yahoo Finance;Positive;Neutral
+S&P 500 gains as semiconductor companies rally;2026-02-04;Yahoo Finance;Positive;Positive
+Wall Street dips as traders question tech valuations;2026-02-05;Yahoo Finance;Negative;Negative
+Stocks climb as chipmakers power tech sector gains;2026-02-06;Yahoo Finance;Positive;Negative
+S&P 500 trades sideways amid mixed economic signals;2026-02-08;Yahoo Finance;Neutral;Neutral
+Wall Street rebounds as investors buy the dip;2026-02-09;Yahoo Finance;Positive;Neutral
+Stocks slip as bond yields climb;2026-02-11;Yahoo Finance;Negative;Negative
+S&P 500 rises as semiconductor demand boosts outlook;2026-02-12;Yahoo Finance;Positive;Positive
+Wall Street mixed as investors track economic data;2026-02-13;Yahoo Finance;Neutral;Neutral
+Stocks drift higher as tech shares recover;2026-02-16;Yahoo Finance;Positive;Negative
+S&P 500 dips as investors reassess AI spending outlook;2026-02-24;Yahoo Finance;Negative;Neutral
+Wall Street edges higher on chipmaker optimism;2026-02-25;Yahoo Finance;Positive;Negative
+Stocks retreat after strong rally in tech sector;2026-02-26;Yahoo Finance;Negative;Positive
+Markets finish February with mixed results amid tech volatility;2026-02-28;Yahoo Finance;Neutral;Negative
+Wall Street edges higher as investors digest strong economic data;2026-02-01;Reuters;Positive;Neutral
+Stocks gain as semiconductor shares continue rally;2026-02-02;Reuters;Positive;Positive
+Wall Street futures slip as traders await inflation figures;2026-02-03;Reuters;Negative;Negative
+US stocks rise slightly as investors bet on AI growth;2026-02-04;Reuters;Positive;Positive
+Wall Street tumbles as concerns grow over massive AI spending;2026-02-05;Reuters;Negative;Negative
+Stocks rebound as chipmakers lead technology recovery;2026-02-06;Reuters;Positive;Negative
+Wall Street steady as investors assess earnings outlook;2026-02-07;Reuters;Neutral;Neutral
+US stocks mixed as traders weigh economic growth prospects;2026-02-08;Reuters;Negative;Neutral
+Wall Street climbs as investors return to technology stocks;2026-02-09;Reuters;Positive;Positive
+S&P 500 slips as traders lock in profits from tech rally;2026-02-10;Reuters;Negative;Positive
+Wall Street rises as semiconductor demand lifts markets;2026-02-11;Reuters;Positive;Positive
+Stocks steady as investors monitor bond yield movements;2026-02-12;Reuters;Positive;Neutral
+Wall Street edges higher as retail earnings boost sentiment;2026-02-13;Reuters;Positive;Negative
+US stocks dip as investors question sustainability of rally;2026-02-14;Reuters;Negative;Positive
+Wall Street rebounds as technology stocks recover losses;2026-02-15;Reuters;Positive;Negative
+Stocks climb as traders anticipate strong chipmaker results;2026-02-16;Reuters;Positive;Positive
+Wall Street futures steady ahead of key earnings reports;2026-02-17;Reuters;Neutral;Neutral
+Stocks surge as Nvidia optimism fuels tech rally;2026-02-18;Reuters;Positive;Positive
+Wall Street dips as oil prices rise amid geopolitical tensions;2026-02-19;Reuters;Negative;Negative
+US stocks gain as investors focus on economic resilience;2026-02-20;Reuters;Positive;Neutral
+Wall Street edges lower as investors weigh tariff uncertainty;2026-02-21;Reuters;Negative;Neutral
+Stocks rebound as semiconductor shares lift technology sector;2026-02-22;Reuters;Positive;Negative
+Wall Street tumbles as AI disruption fears rattle markets;2026-02-23;Reuters;Negative;Negative
+Stocks climb as investors buy the dip in tech sector;2026-02-24;Reuters;Positive;Positive
+Wall Street rallies as chip stocks surge on demand outlook;2026-02-25;Reuters;Positive;Positive
+S&P 500 dips as traders reassess Nvidia earnings impact;2026-02-26;Reuters;Negative;Positive
+Wall Street ends February with losses amid AI volatility;2026-02-27;Reuters;Negative;Negative
+Stocks close mixed as investors evaluate economic outlook;2026-02-28;Reuters;Negative;Neutral
+Stock Market Today: S&P 500 rises as tech sector rebounds;2026-02-01;CNBC;Positive;Positive
+Stock Market Today: Stocks slip as investors weigh inflation risk;2026-02-02;CNBC;Negative;Positive
+Stock Market Today: Wall Street mixed as tech rally pauses;2026-02-03;CNBC;Neutral;Neutral
+Stock Market Today: S&P 500 climbs as semiconductor stocks surge;2026-02-04;CNBC;Positive;Positive
+Stock Market Today: Wall Street dips after tech earnings disappoint;2026-02-05;CNBC;Negative;Negative
+Stock Market Today: Stocks rise as AI optimism lifts markets;2026-02-06;CNBC;Positive;Positive
+Stock Market Today: S&P 500 steady as investors track economic data;2026-02-07;CNBC;Neutral;Neutral
+Stock Market Today: Wall Street gains on strong chipmaker outlook;2026-02-08;CNBC;Positive;Positive
+Stock Market Today: Stocks slip as investors rotate sectors;2026-02-09;CNBC;Negative;Positive
+Stock Market Today: S&P 500 dips amid rising bond yields;2026-02-10;CNBC;Negative;Negative
+Stock Market Today: Wall Street rebounds as tech stocks recover;2026-02-11;CNBC;Positive;Negative
+Stock Market Today: Stocks edge higher on retail earnings optimism;2026-02-12;CNBC;Positive;Negative
+Stock Market Today: S&P 500 mixed as investors await Fed signals;2026-02-13;CNBC;Negative;Neutral
+Stock Market Today: Wall Street steady as inflation fears ease;2026-02-14;CNBC;Neutral;Neutral
+Stock Market Today: Stocks dip as investors assess global growth;2026-02-15;CNBC;Neutral;Neutral
+Stock Market Today: S&P 500 rises as chipmakers lead rally;2026-02-16;CNBC;Positive;Positive
+Stock Market Today: Wall Street flat ahead of key earnings;2026-02-17;CNBC;Neutral;Neutral
+Stock Market Today: Stocks gain as investors bet on AI demand;2026-02-18;CNBC;Positive;Positive
+Stock Market Today: S&P 500 slips as energy prices rise;2026-02-19;CNBC;Negative;Neutral
+Stock Market Today: Wall Street rebounds on strong economic data;2026-02-20;CNBC;Positive;Neutral
+Stocks rise as investors remain bullish on technology sector;2026-02-01;Yahoo Finance;Positive;Positive
+Wall Street slips as traders question tech valuations;2026-02-02;Yahoo Finance;Negative;Negative
+S&P 500 climbs as semiconductor demand boosts outlook;2026-02-03;Yahoo Finance;Positive;Positive
+Stocks steady as investors digest economic reports;2026-02-04;Yahoo Finance;Neutral;Neutral
+Wall Street dips as AI spending fears weigh on tech stocks;2026-02-05;Yahoo Finance;Negative;Negative
+S&P 500 rises as investors return to growth stocks;2026-02-06;Yahoo Finance;Positive;Positive
+Stocks mixed as investors weigh macroeconomic signals;2026-02-07;Yahoo Finance;Negative;Neutral
+Wall Street climbs as chipmakers rally on demand outlook;2026-02-08;Yahoo Finance;Positive;Positive
+S&P 500 edges higher as traders buy technology shares;2026-02-09;Yahoo Finance;Positive;Negative
+Stocks retreat as bond yields climb;2026-02-10;Yahoo Finance;Negative;Negative
+Wall Street rebounds as semiconductor rally resumes;2026-02-11;Yahoo Finance;Positive;Positive
+S&P 500 steady as investors assess inflation outlook;2026-02-12;Yahoo Finance;Neutral;Neutral
+Stocks rise as economic data boosts investor confidence;2026-02-13;Yahoo Finance;Positive;Neutral
+Wall Street slips as traders lock in gains;2026-02-14;Yahoo Finance;Negative;Negative
+S&P 500 climbs as tech sector recovers;2026-02-15;Yahoo Finance;Positive;Positive
+Stocks edge higher on optimism about AI demand;2026-02-16;Yahoo Finance;Positive;Positive
+Wall Street mixed as investors monitor economic indicators;2026-02-17;Yahoo Finance;Neutral;Neutral
+S&P 500 rises as semiconductor stocks rally;2026-02-18;Yahoo Finance;Positive;Positive
+Stocks dip as investors weigh energy price surge;2026-02-19;Yahoo Finance;Negative;Positive
+Wall Street rebounds on stronger economic data;2026-02-20;Yahoo Finance;Positive;Neutral
